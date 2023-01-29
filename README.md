@@ -11,7 +11,7 @@ Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-John%20MacLean-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johngrantmaclean/)](https://www.linkedin.com/in/johngrantmaclean/)
 [![Medium Badge](https://img.shields.io/badge/John%20MacLean-12100E?style=flat-square&logo=medium&logoColor=white&link=[https://medium.com/@johnnymaclean/)](https://medium.com/@johnnymaclean/)
-[![Gmail Badge](https://img.shields.io/badge/-Broadus@Levelupintech.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jgm.itpro@gmail.com)](mailto:jgm.itpro@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-jgm.itpro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jgm.itpro@gmail.com)](mailto:jgm.itpro@gmail.com)
 
 ## ⚡ Technologies
 
