@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is John and I am an experienced Citrix/Wintel Infrastructure engineer tranistioning to DevOps.
+My name is John and I am an experienced Citrix/Wintel Infrastructure engineer transitioning to DevOps.
 
 I love scripting, automation and troubleshooting.  I'm always willing to learn and help, so please reach out!
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
